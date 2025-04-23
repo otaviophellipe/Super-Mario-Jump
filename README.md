@@ -21,10 +21,6 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 
 ## ⚙️ Como Executar o Projeto
 
-Acesse o site: https://otaviophellipe.github.io/Super-Mario-Jump/
-
-ou
-
 Clone este repositório:
    ```bash
    git clone https://github.com/otaviophellipe/Super-Mario-Jump.git
