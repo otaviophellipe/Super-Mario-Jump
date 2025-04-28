@@ -26,6 +26,7 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 - **2.0**: https://youtu.be/QuvAtTkdUmc ``28/04/2025``
 
  Fix: Na versão piloto, era necessário restaurar a página para jogar novamente, agora basta apertar a tecla "Espaço" que o jogo funciona novamente.
+
  Addons: Foi adicionado uma caixa de "Score" e "High Score(Best)" (sofrerá mudanças nas próximas atualizações)
 
 ## ⚙️ Como Executar o Projeto
