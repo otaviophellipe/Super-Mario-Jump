@@ -8,7 +8,7 @@ Super-Mario-Jump é um jogo interativo baseado no famoso personagem Mario. Neste
 
 ## 🔎 Funcionalidades
 
-- **Controles simples**: O no momento apresenta apenas a função de pular (qualquer tecla).
+- **Controles simples**: No momento apresenta apenas a função de pular (qualquer tecla).
 - **Gráficos coloridos**: Estilo visual que remete aos clássicos jogos de plataforma.
 
 ## 🌐 Tecnologias Utilizadas
