@@ -1,4 +1,4 @@
-![Status](https://img.shields.io/badge/Status-Possiveis%20Alterações-yellow)
+![Status](https://img.shields.io/badge/Status-Possiveis%20Atualizações-yellow)
 
 # Super-Mario-Jump 
 
